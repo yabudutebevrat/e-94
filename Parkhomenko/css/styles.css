@@ -66,18 +66,18 @@ body {
 
 /* Navigation*/
 
-.nav {
+.navigations {
   padding-top: 35px;
   padding-bottom: 35px;
 }
 
-.nav-row {
+.navigations-row {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.logo {
+.logotip {
   display: flex;
   align-items: center;
   font-size: 24px;
@@ -85,7 +85,7 @@ body {
   line-height: 1;
 }
 
-.logo img {
+.logotip img {
   margin-right: 15px;
 }
 
