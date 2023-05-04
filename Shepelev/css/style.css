@@ -320,7 +320,6 @@ nav {
     color: #58BEBF;
 }
 .ending-block {
-    position: absolute;
     left: 0;
     background: url(../images/Bg\ \(2\).svg);
     background-repeat: no-repeat;
@@ -339,4 +338,19 @@ nav {
     margin-right: 10%;
     margin-left: 20%;
     margin-top: 6%;
+}
+footer {
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-around;
+}
+#footer-nav {
+    display: flex;
+    justify-content: space-around;
+}
+footer p {
+    margin: 20px 0;
+}
+footer li {
+    margin: 20px 0;
 }
