@@ -229,3 +229,42 @@ nav {
 .contact-us-text button:last-child p {
     color: #323232;
 }
+.header-about-sellers {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.cards-about-sellers {
+    display: flex;
+    justify-content: center;
+    grid-column-gap: 30px;
+}
+.card {
+    width: 540px;
+    background: #F78434;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 0;
+}
+.card img {
+    margin-bottom: 20px;
+}
+.card-text {
+    margin: 20px auto;
+    width: 50%;
+}
+.card:first-child h1 {
+    color: white;
+}
+.card:first-child p {
+    color: white;
+}
+.card:first-child button {
+    background-color: white;
+}
+.card:first-child button p {
+    color: #F78434;
+}
+.card:last-child {
+    background: whitesmoke;
+}
