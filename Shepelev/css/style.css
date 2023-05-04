@@ -268,3 +268,20 @@ nav {
 .card:last-child {
     background: whitesmoke;
 }
+.about-sellers {
+    margin-bottom: 150px;
+}
+.why-choose-us {
+    text-align: center;
+}
+.why-choose-us h1 {
+    margin-bottom: 50px;
+}
+.cards-abilities {
+    display: flex;
+    justify-content: space-around;
+}
+.card-ability {
+    width: 250px;
+    text-align: center;
+}
