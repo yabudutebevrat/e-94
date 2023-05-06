@@ -1138,4 +1138,146 @@ body {
   letter-spacing: 1.15px;
   color: #ffffff;
 }
-
+.footer-container8 {
+  position: relative;
+  width: 1440px;
+  height: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  top: -270px;
+}
+.rec-container8 {
+  position: absolute;
+  height: 375px;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.logotype {
+  position: absolute;
+  left: 160px;
+  top: 87px;
+  border-radius: 0px;
+}
+.title-logotype-container8 {
+  position: absolute;
+  height: 36px;
+  left: 200px;
+  top: 85px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+}
+.text-container8 {
+  position: absolute;
+  width: 300px;
+  height: 54px;
+  left: 165px;
+  top: 145px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  letter-spacing: 1.15px;
+}
+.Facebook {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 165px;
+  top: 239px;
+}
+.Twitter {
+  position: absolute;
+  width: 24.46px;
+  height: 19.92px;
+  left: 215px;
+  top: 239px;
+}
+.Youtube {
+  position: absolute;
+  width: 28.52px;
+  height: 19.97px;
+  left: 270px;
+  top: 239px;
+}
+.Linkedin {
+  position: absolute;
+  width: 20.9px;
+  height: 19.97px;
+  left: 328px;
+  top: 239px;
+}
+li {
+  margin-bottom: 13px;
+}
+.navigation8 a:hover {
+  color: #f78434;
+}
+.title1-navigation8 {
+  position: absolute;
+  height: 32px;
+  left: 689px;
+  top: 96px;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 32px;
+  letter-spacing: 0.5px;
+}
+.list1-navigation8 {
+  position: absolute;
+  width: 143px;
+  height: 147px;
+  left: 689px;
+  top: 146px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 27px;
+  letter-spacing: 0.5px;
+}
+.title2-navigation8 {
+  position: absolute;
+  height: 32px;
+  left: 921px;
+  top: 96px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 32px;
+  letter-spacing: 0.5px;
+}
+.list2-navigation8 {
+  position: absolute;
+  width: 143px;
+  height: 147px;
+  left: 921px;
+  top: 146px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 27px;
+  letter-spacing: 0.5px;
+}
+.title3-navigation8 {
+  position: absolute;
+  height: 32px;
+  left: 1142px;
+  top: 96px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 32px;
+  letter-spacing: 0.5px;
+}
+.list3-navigation8 {
+  position: absolute;
+  width: 143px;
+  height: 147px;
+  left: 1142px;
+  top: 146px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 27px;
+  letter-spacing: 0.5px;
+}
