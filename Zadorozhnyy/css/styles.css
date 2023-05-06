@@ -1047,4 +1047,95 @@ body {
 .third-button-container6:hover {
   color: #f78434;
 }
+.container7 {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1440px;
+  height: 547px;
+  left: 0px;
+  top: -270px;
+  overflow: hidden;
+}
+.women {
+  
+  z-index: 2;
+  position: absolute;
+  width: 478px;
+  height: 547px;
+  left: 698px;
+  top: 0px;
+}
+.rectangle-container7 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1440px;
+  height: 547px;
+  left: 0px;
+  top: -270px;
+  background-color: #58bebf;
+  clip-path: polygon(0 30%, 100% 10%, 100% 100%, 0% 100%);
+}
+.circle-container7 {
+  z-index: 1;
+  position: absolute;
+  left: 619px;
+  right: -46.18%;
+  top: 176px;
+  bottom: -68.01%;
+  height: 743px;
+  width: 743px;
+  border-radius: 50%;
+  background: linear-gradient(223.68deg,
+      rgba(255, 255, 255, 0.0001) 29.68%,
+      rgba(255, 255, 255, 0.502759) 99.43%);
+  transform: rotate(90deg);
+}
+.button-container7 {
+  z-index: 1;
+  position: absolute;
+  height: 58px;
+  width: 172px;
+  left: 165px;
+  top: 434px;
+  border-radius: 0px;
+  background: #ffffff;
+  border-radius: 29px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+.button-container7:hover {
+  color: #ff6a00;
+}
+.title-container7 {
+  z-index: 1;
+  position: absolute;
+  height: 124px;
+  left: 11.46%;
+  right: 63.61%;
+  top: calc(50% - 124px / 2 - 0.5px);
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 62px;
+  letter-spacing: 0.8px;
+  color: #ffffff;
+}
+.text-container7 {
+  z-index: 1;
+  position: absolute;
+  left: 11.46%;
+  right: 64.79%;
+  top: 63.99%;
+  bottom: 26.14%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  letter-spacing: 1.15px;
+  color: #ffffff;
+}
 
